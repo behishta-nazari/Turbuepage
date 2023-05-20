@@ -18,7 +18,7 @@
     font-size: 4rem;
     margin-bottom: 0;
   }
-  
+  /*  media query added */
   @media (max-width: 460px) {
     h1 {
       font-size: 3.5rem;
